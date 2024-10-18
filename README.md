@@ -1,5 +1,5 @@
 # Overview
-This project provides two datasets related to jet segmentation: **Libary** and **SegQinhu**. These datasets are intended to support researchers and developers to promote research and applications in the field of jet segmentation.
+This project provides two datasets related to jet segmentation: **Libary** and **SegQinhu**. These datasets are intended to support researchers and developers to promote research and applications in the field of intelligent suction and jet systems.
 
 # Dataset Description
 
