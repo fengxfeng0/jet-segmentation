@@ -5,9 +5,9 @@ import torch.nn.functional as F
 import torchvision.models as models
 import layers
 
-class Deeplabv3_MobileNetv2(nn.Module):
-    def __init__(self,cls_num=3):
-        super(Deeplabv3_MobileNetv2, self).__init__()
+class MobileHDC(nn.Module):
+    def __init__(self,cls_num=2):
+        super(MobileHDC, self).__init__()
 
         self.numclass = cls_num
 
